@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gcaiir.github.io/cFG/sitemap.cFG.gz
